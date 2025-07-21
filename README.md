@@ -1,4 +1,4 @@
-# 📊 Portfolio de Proyectos - Power BI
+# 📊 Portfolio de Power BI
 
 ¡Bienvenido a mi repositorio de proyectos!  
 
