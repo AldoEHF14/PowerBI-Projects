@@ -6,8 +6,8 @@ Aquí encontrarás mis proyectos creados con Power BI, donde aplico técnicas de
 
 En mis proyectos aplico:
 
-🔹 Limpieza y normalización de datos con Power Query.
-🔹 Modelado de datos mediante relaciones y modelos estrella.
-🔹 Métricas implícitas y explícitas con DAX para crear KPIs personalizados.
-🔹 ChatGPT como apoyo para estructurar ideas, fórmulas y diseño de dashboards.
-🔹 PowerPoint como herramienta de diseño visual y lienzos complementarios.
+🔹 Limpieza y normalización de datos con Power Query.<br>
+🔹 Modelado de datos mediante relaciones y modelos estrella.<br>
+🔹 Métricas implícitas y explícitas con DAX para crear KPIs personalizados.<br>
+🔹 ChatGPT como apoyo para estructurar ideas, fórmulas y diseño de dashboards.<br>
+🔹 PowerPoint como herramienta de diseño visual y lienzos complementarios.<br>
