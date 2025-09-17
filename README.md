@@ -2,7 +2,7 @@
 
 ¡Bienvenido a mi repositorio de Power BI!  
 
-Aquí encontrarás mis proyectos creados con Power BI, donde aplico técnicas de limpieza, normalización, modelado de datos y visualización interactiva para convertir información en tableros fáciles de interpretar. También utilizo PowerPoint para crear lienzos y plantillas visuales que complementan la presentación de los dashboards.
+Aquí encontrarás proyectos creados con Power BI, donde se aplican técnicas de limpieza, normalización, modelado de datos y visualización interactiva para convertir información en tableros fáciles de interpretar. También se utiliza PowerPoint para crear lienzos y plantillas visuales que complementan la presentación de los dashboards.
 
 En mis proyectos aplico:
 
