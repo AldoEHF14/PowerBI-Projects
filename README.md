@@ -4,7 +4,7 @@
 
 Aquí encontrarás proyectos creados con Power BI, donde se aplican técnicas de limpieza, normalización, modelado de datos y visualización interactiva para convertir información en tableros fáciles de interpretar. También se utiliza PowerPoint para crear lienzos y plantillas visuales que complementan la presentación de los dashboards.
 
-En mis proyectos aplico:
+En los proyectos se aplican:
 
 🔹 Limpieza y normalización de datos con Power Query.<br>
 🔹 Modelado de datos mediante relaciones y modelos estrella.<br>
