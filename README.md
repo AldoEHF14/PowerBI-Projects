@@ -1,5 +1,9 @@
 # 📊 Portfolio de Power BI
 
+![Power BI](https://img.shields.io/badge/Herramienta-Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+---
+
 ¡Bienvenido a mi repositorio de Power BI!  
 
 Aquí encontrarás proyectos creados con Power BI, donde se aplican técnicas de limpieza, normalización, modelado de datos y visualización interactiva para convertir información en tableros fáciles de interpretar. También se utiliza PowerPoint para crear lienzos y plantillas visuales que complementan la presentación de los dashboards.
